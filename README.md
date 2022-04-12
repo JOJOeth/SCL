@@ -2,7 +2,7 @@
 PyTorch implementation of SCL: Self-supervised Classification of Weather Systems based on Spatiotemporal Contrastive Learning
 
 ### Training ResNet encoder:
-Simply run the following to pre-train a ResNet encoder using SimCLR on the CIFAR-10 dataset:
+Simply run the following to pre-train a ResNet encoder using SCL on the your dataset:
 ```
 python main.py 
 ```
