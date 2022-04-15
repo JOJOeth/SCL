@@ -126,4 +126,6 @@ tensorboard --logdir runs
 ```
 
 ## Acknowledgements
+```
 Our code is inspired by [SimCLR](https://github.com/Spijkervet/SimCLR)
+```
